@@ -1,0 +1,11 @@
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project 2 - PayrollDB.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project_2___PayrollDB.Properties.Resources.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project 2 - PayrollDB.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\bin\Debug\Project 2 - PayrollDB.exe.config
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\bin\Debug\Project 2 - PayrollDB.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\bin\Debug\Project 2 - PayrollDB.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project 2 - PayrollDB.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project 2 - PayrollDB.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project_2___PayrollDB.frmEmployeeData.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project_2___PayrollDB.frmMenu.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 2 - PayrollDB\Project 2 - PayrollDB\obj\Debug\Project 2 - PayrollDB.csproj.CoreCompileInputs.cache

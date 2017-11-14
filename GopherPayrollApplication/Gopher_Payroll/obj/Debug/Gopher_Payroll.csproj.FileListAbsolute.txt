@@ -1,0 +1,24 @@
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\bin\Debug\Project 2 - PayrollDB.exe.config
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\bin\Debug\Project 2 - PayrollDB.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\bin\Debug\Project 2 - PayrollDB.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\Gopher_Payroll.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\GopherPayroll.frmPayrollReview.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\GopherPayroll.frmAddEmployeeRecords.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\GopherPayroll.frmMenu.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\Project_2___PayrollDB.Properties.Resources.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\Gopher_Payroll.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\Gopher_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\Project 2 - PayrollDB.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Gopher Payroll Application\Gopher_Payroll\obj\Debug\Project 2 - PayrollDB.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\bin\Debug\Project 2 - PayrollDB.exe.config
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\bin\Debug\Project 2 - PayrollDB.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\bin\Debug\Project 2 - PayrollDB.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\Gopher_Payroll.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\GopherPayroll.frmPayrollReview.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\GopherPayroll.frmAddEmployeeRecords.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\GopherPayroll.frmMenu.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\Project_2___PayrollDB.Properties.Resources.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\Gopher_Payroll.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\Gopher_Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\Project 2 - PayrollDB.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2585 - .Net II\Projects\Project 3 - Gopher Payroll\GopherPayrollApplication\Gopher_Payroll\obj\Debug\Project 2 - PayrollDB.pdb

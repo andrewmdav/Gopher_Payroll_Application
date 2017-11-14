@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <NewDataEntry>
+    <Emp_x0020_ID>1</Emp_x0020_ID>
+    <Employee_x0020_Name>Adams, Andrew A</Employee_x0020_Name>
+    <Week_x0020_Ending>20120101</Week_x0020_Ending>
+    <Hours_x0020_Worked>2</Hours_x0020_Worked>
+    <Total_x0020_Pay>20.5000</Total_x0020_Pay>
+  </NewDataEntry>
+  <NewDataEntry>
+    <Emp_x0020_ID>6</Emp_x0020_ID>
+    <Employee_x0020_Name>Franklin, Fredrick F</Employee_x0020_Name>
+    <Week_x0020_Ending>20400101</Week_x0020_Ending>
+    <Hours_x0020_Worked>12</Hours_x0020_Worked>
+    <Total_x0020_Pay>132.0000</Total_x0020_Pay>
+  </NewDataEntry>
+  <NewDataEntry>
+    <Emp_x0020_ID>6</Emp_x0020_ID>
+    <Employee_x0020_Name>Franklin, Fredrick F</Employee_x0020_Name>
+    <Week_x0020_Ending>20400101</Week_x0020_Ending>
+    <Hours_x0020_Worked>12</Hours_x0020_Worked>
+    <Total_x0020_Pay>132.0000</Total_x0020_Pay>
+  </NewDataEntry>
+</DocumentElement>
