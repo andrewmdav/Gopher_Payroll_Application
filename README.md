@@ -1,7 +1,7 @@
 # Gopher_Payroll_Application
 
 **General Description:**<br>
-A Windows multi-form project that allows a user to navigate and review payroll entries in a database, add weekly payroll records to the, 
+A Windows multi-form project that allows a user to navigate and review payroll entries in a database, add weekly payroll records to the 
 database, and output to an XML file or a printed page. 
 
 **File Arrangement:**<br>
