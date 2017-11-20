@@ -16,7 +16,7 @@ Highlighted below are the critical files for running the project and reviewing t
 	-Main Menu Form Code:			~GopherPayrollCode\Gopher_Payroll\MainMenuForm.cs
 	-Payroll Review Form Code:		~GopherPayrollCode\Gopher_Payroll\PayrollReviewForm.cs
 	-Add Records Form Code:			~GopherPayrollCode\Gopher_Payroll\AddPayrollRecordsForm.cs
-	-Data Base Class Code:			~GopherPayrollCode\Gopher_Payroll\clsDatabase.cs
+	-Database Class Code:			~GopherPayrollCode\Gopher_Payroll\clsDatabase.cs
 	
 	New Payroll Record Output Examples:
 	-PDF File: 				~OutputExamplesForNewRecords\NewPayrollRecords.pdf
