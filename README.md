@@ -9,18 +9,18 @@ Highlighted below are the critical files for running the project and reviewing t
 	
 	Program Execution:
 	-Published Application: 		~PublishedApplication\setup.exe
-	-Database File:					~DatabaseFiles\Payroll.mdf
+	-Database File:				~DatabaseFiles\Payroll.mdf
 	
 	Code Review:
-	-Solution File: 				~GopherPayrollCode\Gopher_Payroll.sln
+	-Solution File: 			~GopherPayrollCode\Gopher_Payroll.sln
 	-Main Menu Form Code:			~GopherPayrollCode\Gopher_Payroll\MainMenuForm.cs
 	-Payroll Review Form Code:		~GopherPayrollCode\Gopher_Payroll\PayrollReviewForm.cs
 	-Add Records Form Code:			~GopherPayrollCode\Gopher_Payroll\AddPayrollRecordsForm.cs
 	-Data Base Class Code:			~GopherPayrollCode\Gopher_Payroll\clsDatabase.cs
 	
 	New Payroll Record Output Examples:
-	-PDF File: 						~OutputExamplesForNewRecords\NewPayrollRecords.pdf
-	-XML File: 						~OutputExamplesForNewRecords\NewPayrollRecords.xml
+	-PDF File: 				~OutputExamplesForNewRecords\NewPayrollRecords.pdf
+	-XML File: 				~OutputExamplesForNewRecords\NewPayrollRecords.xml
 
 **Detailed Description:**<br>
 The program begins at the Main form, giving the user the option to review payroll or add new records.  The first subform, called PayrollReviewForm, 
